@@ -16,6 +16,10 @@ git clone --recursive https://github.com/LuoweiZhou/VLP.git
 ```
 
 1) Install CUDA (e.g., 10.0), CUDNN (e.g., v7.5), and [Miniconda](https://docs.conda.io/en/latest/miniconda.html) (either Miniconda2 or 3, version 4.6+).
+Miniconda installation.
+- wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+- bash Miniconda3-latest-Linux-x86_64.sh
+- source ~/.bashrc
 
 2) Run the following commands to set up conda env and install Python packages:
 
